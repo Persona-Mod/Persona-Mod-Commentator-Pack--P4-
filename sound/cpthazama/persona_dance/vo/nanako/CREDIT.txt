@@ -1,0 +1,26 @@
+*******************************************************************
+*                                                                 *
+* Persona 4 Dancing All Night for Playstation Vita                *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*                                                                 *
+* Raw Files Ripped by: Ryan Shrinefox                             *
+* Sound Ripped by: Skyla Doragono                                 *
+* Feel free to use without credit, but do not claim as your own!  *
+*                                                                 *
+* Special Thanks to:                                              *
+* Mr. Gas & Major_Tom                                             *
+*    File dumping without pfs protection                          *
+* Qwikrazor87                                                     *
+*    TN-V11 Bubble, GAME2VHBL plugin                              *
+* KidMaJunior                                                     *
+*    Donating the game                                            *
+* ThatTrueStruggle                                                *
+*    For helping me with conversion.                              *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*                                                                 *
+* Hosted at The Sound Resource                                    *
+*    http://www.spriters-resource.com/                            *
+*                                                                 *
+* Brought to you by Amicitia Hacking Forum                        *
+*    http://s15.zetaboards.com/Amicitia/index/                    *
+*******************************************************************
